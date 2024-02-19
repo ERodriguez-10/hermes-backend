@@ -1,0 +1,18 @@
+{
+  "name": "hermes-backend",
+  "version": "1.0.0",
+  "description": "Proyecto Hermes es una iniciativa colaborativa que tiene como objetivo crear una plataforma donde los gamers puedan descubrir nuevos juegos, participar en foros, gestionar sus listas de juegos y ¡muchas novedades más!. Este repositorio en particular está dedicado al desarrollo del backend de la plataforma.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
